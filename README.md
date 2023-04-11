@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
