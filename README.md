@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Add docs guide terminal images (#8819)
