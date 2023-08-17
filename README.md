@@ -1,1 +1,1 @@
-fix non-coco val
+Fix Multi-GPU resume bug (#7328)
