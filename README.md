@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
