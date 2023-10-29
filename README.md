@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Add C++ Classify inference example (#6868)
