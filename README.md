@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Fix IS_PYTHON_3_12 bug (#9258)
