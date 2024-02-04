@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Add horizontal Mosaic3 augmentation (#6898)
