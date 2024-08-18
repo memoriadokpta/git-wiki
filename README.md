@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Fixed RTDETR GFLOPs bug (#7309)
